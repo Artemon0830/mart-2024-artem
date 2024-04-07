@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+header{
+    height:15vh ;
+    background: #D9D9D9;
+}
+section{
+    height: 75vh;
+    display: flex;
+    justify-content: space-around;
+}
+main{width: 33.3vw;
+
+}
+.main-1{height: 25vh;
+    background:  #979796;
+}
+.main-2{
+    height:25vh ;
+    background: linear-gradient(0deg, #BABAB9 0%, #BABAB9 100%), linear-gradient(0deg, #7F816A 0%, #7F816A 100%), #979796;
+}
+nav{width: 33.3vw;
+    height: 75vh;
+    background: #61615C;
+}
+aside{
+    width: 33.3vw;
+}
+.aside-1{
+    height: 37.5vh;
+    background: #78786F;
+}
+.aside-2{ height: 37.5vh;
+    background: #828569;
+}
+footer{height: 10vh;
+    background: #D9D9D9;
+}

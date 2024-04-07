@@ -1,0 +1,25 @@
+*{ margin: 0;
+}
+h1{margin: 30px;
+
+}
+p{
+    margin: 30px;
+}
+.Black{
+    height: 50vh;
+    background-color:black;
+    display: flex;
+   text-align: center;
+    flex-direction: column;
+color: white;
+}
+.Pink{
+    height: 50vh;
+    background-color: pink;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    color: black;
+
+}

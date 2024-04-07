@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+html{ scroll-behavior: smooth;}
+.box-section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+flex-direction: column;
+}
+h1{
+    margin: 40px;
+    font-size: 50px;
+}
+#blue{
+    background-color: #8888e0;
+}
+#green{
+    background-color: #8cb78c;
+}
+#red{
+    background-color: #d28a8a;
+}
+p {
+    margin: 15px;
+    font-size: 20px;
+}
+section a{
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+    margin: 20px;
+}
+
