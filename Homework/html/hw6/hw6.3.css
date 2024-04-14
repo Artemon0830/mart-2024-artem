@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-size: 30px;
+}
+.header-1{
+    width: 40vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.link{
+    width:10vw ;
+    height: 10vh;
+    background: #FF0000;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+main{
+    height: 30vh;
+    background: #00FF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article{width: 100vw;
+    height:40vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Article{
+    width: 50vw;
+    height: 20vh;
+    background: #691372;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+footer{width: 100vw;
+    height:10vh ;
+    background: #FFFF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

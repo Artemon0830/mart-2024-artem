@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    font-size: 25px;
+}
+header{
+    height: 40vh;
+    background: #FF0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#B{
+    width: 80vw;
+    height: 100%;
+    background: #0000FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#C{
+    width: 20vw;
+    height: 100%;
+    background: #00FF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

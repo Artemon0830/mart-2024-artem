@@ -77,9 +77,10 @@ main{
     text-align: center;
 }
 .pink{font-size: 22px;
-    width: 420px;
-display: flex;
-    justify-content: start;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     flex-direction: column;
 
 }
